@@ -462,3 +462,6 @@ Thumbs.db
 # - Dockerfile
 # - docker-compose.yml
 # - BankingSystem.postman_collection.json
+/scripts
+/BankingSystem_API.postman_collection.json
+/BaseDatos.sql
